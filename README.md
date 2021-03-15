@@ -5,3 +5,5 @@ This file tells people about the project.
 ## Subheading
 Regular text. Now some *italics*.
 
+Erica added this *brilliant* text here.
+
